@@ -1,0 +1,12 @@
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\bin\Debug\flamenguistMission.dll
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\bin\Debug\flamenguistMission.pdb
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\bin\Debug\LemonUI.SHVDN3.dll
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\bin\Debug\LemonUI.SHVDN3.pdb
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\bin\Debug\LemonUI.SHVDN3.xml
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\bin\Debug\ScriptHookVDotNet3.xml
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\obj\Debug\flamenguistMission.csproj.AssemblyReference.cache
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\obj\Debug\flamenguistMission.csproj.CoreCompileInputs.cache
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\obj\Debug\flamenguistMission.csproj.CopyComplete
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\obj\Debug\flamenguistMission.dll
+C:\Users\Madeira\Desktop\Github\ScriptHookTest\flamenguistMission\flamenguistMission\obj\Debug\flamenguistMission.pdb
