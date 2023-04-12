@@ -1,1 +1,1 @@
-# How to get flamengo t shirt in GTA V?
+# How to get flamengo t-shirt in GTA V?
